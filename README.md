@@ -8,4 +8,5 @@ pytorch              1.4.0
 opencv-python        4.5.1.48
 ffmpeg               1.4
 numpy                1.15.4
-flownet2
+### video demos
+https://www.researchgate.net/publication/375695986_SOFT_-_Video_Demonstrations/related
