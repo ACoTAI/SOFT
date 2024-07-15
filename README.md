@@ -11,3 +11,16 @@ numpy                1.15.4
 ```
 ### Video demos
 https://www.researchgate.net/publication/375695986_SOFT_-_Video_Demonstrations/related
+### Citations
+If you find this codebase useful in your research, please consider citing:
+```
+@article{wang2024soft,
+  title={SOFT: Self-supervised sparse Optical Flow Transformer for video stabilization via quaternion},
+  author={Wang, Naiyao and Zhou, Changdong and Zhu, Rongfeng and Zhang, Bo and Wang, Ye and Liu, Hongbo},
+  journal={Engineering Applications of Artificial Intelligence},
+  volume={130},
+  pages={107725},
+  year={2024},
+  publisher={Elsevier}
+}
+```
